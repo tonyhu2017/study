@@ -1,0 +1,2 @@
+小米kernel 开源仓库：https://github.com/MiCode/Xiaomi_Kernel_OpenSource
+高通android13 framework代码 ：https://git.codelinaro.org/clo/la/platform/frameworks/base/-/tree/LA.QSSI.13.0.r1-10900.01-qssi.0 
