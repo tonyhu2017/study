@@ -1,2 +1,6 @@
 小米kernel 开源仓库：https://github.com/MiCode/Xiaomi_Kernel_OpenSource
 高通android13 framework代码 ：https://git.codelinaro.org/clo/la/platform/frameworks/base/-/tree/LA.QSSI.13.0.r1-10900.01-qssi.0 
+
+高通完整代码仓下载：
+repo init --depth=1 --current-branch -u https://git.codelinaro.org/clo/la/platform/manifest.git -b release -m AU_LINUX_ANDROID_LA.UM.11.2.1.C25.13.00.00.1155.003.xml   --repo-url=https://git.codelinaro.org/clo/tools/repo.git --repo-branch=qc-stable
+repo sync -c --no-tags --prune -j 4
